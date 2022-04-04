@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Emmanuel Rachelson
-description: Emmanuel Rachelson's webpage
+logo: img/emmanuel-rachelson.jpg
 plugins:
   - jekyll-sitemap
