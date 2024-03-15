@@ -1,9 +1,9 @@
-**Professor in ML/AI at [ISAE-SUPAERO](www.isae-supaero.fr)**,  
-**Team leader of the [Supaero Reinforcement Learning Initiative (SuReLI)](https://sureli.github.io)**.  
+**Professor in ML/AI at <img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> [ISAE-SUPAERO](www.isae-supaero.fr)**,  
+**Team leader of the <img src="{{site.sureli_logo | relative_url}}" alt=":sureli:" height="20" width="20"> [Supaero Reinforcement Learning Initiative (SuReLI)](https://sureli.github.io)**.  
 
 My research lies in the fields of Reinforcement Learning and Sequential Decision problems, with a broader interest for Machine Learning and Operations Research.  
 Above all, I like to deeply understand the mechanisms of learning and optimization.  
-I like inspiring and diverse applications that fuel my research and challenge my comfort zone. 
+I like []inspiring and diverse applications](https://erachelson.github.io/applications) that fuel my research and challenge my comfort zone. 
 
 I love teaching and education, but I'm not a big fan of grading.  
 I like the principle of [slow science](https://en.wikipedia.org/wiki/Slow_science).
