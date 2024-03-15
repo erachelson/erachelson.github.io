@@ -1,5 +1,5 @@
-Professor in ML/AI at [ISAE-SUPAERO](www.isae-supaero.fr),  
-Team leader of the [Supaero Reinforcement Learning Initiative (SuReLI)](https://sureli.github.io).  
+*Professor in ML/AI* at [ISAE-SUPAERO](www.isae-supaero.fr),  
+*Team leader of the [Supaero Reinforcement Learning Initiative (SuReLI)](https://sureli.github.io)*.  
 
 Also, currently:  
 Member of the [ML, Decision, Optimization research group](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) at ISAE-SUPAERO,  

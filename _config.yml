@@ -1,12 +1,11 @@
 theme: jekyll-theme-minimal
 title: Emmanuel Rachelson
-description: Prof. in ML/AI
 show_downloads: false
 url: "https://erachelson.github.io"
-logo: assets/images/emmanuel-rachelson.jpg
 gscholar_url: "https://scholar.google.fr/citations?user=KtG9BSgAAAAJ&hl=en"
 sureli_url: "https://sureli.isae-supaero.fr"
 isae_url: "https://pagespro.isae-supaero.fr/emmanuel-rachelson/"
+logo: assets/images/emmanuel-rachelson.jpg
 plugins:
   - jekyll-sitemap
   - jemoji
