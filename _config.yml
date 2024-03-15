@@ -12,6 +12,7 @@ sdd_logo: assets/images/sdd.ico
 mva_logo: assets/images/mva.ico
 edf_logo: assets/images/edf.ico
 github_logo: assets/images/octocat.png
+edmitt_logo: assets/images/edmitt.ico
 plugins:
   - jekyll-sitemap
   - jemoji
