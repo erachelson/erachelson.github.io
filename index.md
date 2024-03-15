@@ -11,14 +11,15 @@ I like the principle of [slow science](https://en.wikipedia.org/wiki/Slow_scienc
 ---
 
 Also, currently:  
-Member of the [ML, Decision, Optimization research group](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) at ISAE-SUPAERO,  
-Founder and head of the <img src="https://raw.githubusercontent.com/SupaeroDataScience/SupaeroDataScience.github.io/master/favicon.ico" alt=":sdd:" height="20" width="20"> [Data and Decision Sciences master program](https://SupaeroDataScience.github.io),  
+<img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> Member of the [ML, Decision, Optimization research group](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) at ISAE-SUPAERO,  
+<img src="{{site.sdd_logo | relative_url}}" alt=":sdd:" height="20" width="20"> Founder and head of the [Data and Decision Sciences master program](https://SupaeroDataScience.github.io),  
 Lecturer in RL at the [MVA master program](https://www.master-mva.com/).  
 
 Formerly:  
+<img src="{{site.edf_logo | relative_url}}" alt=":edf:" height="20" width="20">
 Researcher at [EDF R&D](https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise),  
-Head of the [ML, Decision, Optimization research group](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) at ISAE-SUPAERO,  
-Co-founder of the [Artificial Intelligence and Business Transormation master program](https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-artificial-intelligence-business-transformation-aibt/).  
+<img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> Head of the [ML, Decision, Optimization research group](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) at ISAE-SUPAERO,  
+<img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> Co-founder of the [Artificial Intelligence and Business Transormation master program](https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-artificial-intelligence-business-transformation-aibt/).  
 
 Occasionally, consulting on ML and optimization topics.
 
