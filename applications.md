@@ -4,65 +4,73 @@
   <tr>
     <td><img src="assets/images/thermal_soaring.jpg" height="100"></td>
     <td>
-Autonomous glider control and planning<br/>
+**Autonomous glider control and planning**<br/>
 RL<br/>
-PhD student: Erwan Lecarpentier (2020)<br/>
-<img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="100">
-
+Student: Erwan Lecarpentier (2020)<br/>
+<img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/iboat-3.jpg" height="100"></td>
     <td>
-Earth observation satelite scheduling<br/>
+**Autonomous boat control and planning**<br/>
+RL<br/>
+Students: Paul Barde, Tristan Karch (2019)<br/>
+<img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="30">
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/satellite.jpg" height="100"></td>
+    <td>
+**Earth observation satelite scheduling**<br/>
 OR and RL<br/>
-PhD students: Timothée Jammot (2024), Mehdi Zouitine (ongoing)<br/>
-Partners: IRT Saint Exupery, Airbus DS
+Students: Timothée Jammot (2024), Mehdi Zouitine (ongoing)<br/>
+<img src="assets/images/irt.png" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/constellation.jpg" height="100"></td>
     <td>
-Telecommunication routing in satellite constellations<br/>
+**Telecommunication routing in satellite constellations**<br/>
 OR<br/>
-PhD student: François Lamothe (2021)<br/>
-Thales Alenia Space
+Student: François Lamothe (2021)<br/>
+<img src="assets/images/tas.png" height="30"> <img src="assets/images/cnes.png" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/powerplant.png" height="100"></td>
     <td>
-Power network scheduling<br/>
+**Power network scheduling**<br/>
 OR and RL<br/>
-PhD student: Paul Strang (ongoing)<br/>
-EDF R&D
+Student: Paul Strang (ongoing)<br/>
+<img src="assets/images/edf.png" height="30"> <img src="assets/images/cnam.png" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/cockpit.jpg" height="100"></td>
     <td>
 Autopilot testing<br/>
 RL<br/>
-PhD student: Paul-Antoine Le Tolguenec (ongoing)<br/>
-Airbus
+Student: Paul-Antoine Le Tolguenec (ongoing)<br/>
+<img src="assets/images/airbus.png" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/airport.jpg" height="100"></td>
     <td>
 Aircraft Landing schedules<br/>
 OR and RL<br/>
-PhD student: Sana Ikli (2021)<br/>
-ENAC
+Student: Sana Ikli (2021)<br/>
+<img src="assets/images/enac.jpeg" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/plane_wing.jpg" height="100"></td>
     <td>
 Aircraft structural load forecasting<br/>
 ML<br/>
-PhD student: Ankit Chiplunkar (2017)<br/>
-Airbus
+Student: Ankit Chiplunkar (2017)<br/>
+<img src="assets/images/airbus.png" height="30">
     </td>
   </tr>
   <tr>
@@ -70,26 +78,26 @@ Airbus
     <td>
 Robotic navigation<br/>
 RL<br/>
-PhD student: Hedwin Bonnavaud (ongoing)<br/>
-ONERA
+Student: Hedwin Bonnavaud (ongoing)<br/>
+<img src="assets/images/onera.jpg" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/cancer.jpeg" height="100"></td>
     <td>
 Cancer treatment<br/>
 RL<br/>
-PhD student: Alexandre Bertin (ongoing)<br/>
-INSERM-CRCT
+Student: Alexandre Bertin (ongoing)<br/>
+<img src="assets/images/crct.png" height="30">
     </td>
   </tr>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/fluid.png" height="100"></td>
     <td>
 Fluid flow control<br/>
 RL<br/>
-PhD student: Brice Martin<br/>
-ISAE-SUPAERO
+Students: Sandrine Berger (2023), Brice Martin (ongoing)<br/>
+<img src="assets/images/isae.jpg" height="30">
     </td>
   </tr>
 </table>
