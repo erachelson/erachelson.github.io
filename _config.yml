@@ -6,6 +6,12 @@ gscholar_url: "https://scholar.google.fr/citations?user=KtG9BSgAAAAJ&hl=en"
 sureli_url: "https://sureli.isae-supaero.fr"
 isae_url: "https://pagespro.isae-supaero.fr/emmanuel-rachelson/"
 logo: assets/images/emmanuel-rachelson.jpg
+isae_logo: assets/images/isae.ico
+sureli_logo: assets/images/sureli.ico
+sdd_logo: assets/images/sdd.ico
+mva_logo: assets/images/mva.ico
+edf_logo: assets/images/edf.ico
+github_logo: assets/images/octocat.png
 plugins:
   - jekyll-sitemap
   - jemoji
