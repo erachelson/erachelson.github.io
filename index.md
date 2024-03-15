@@ -11,11 +11,11 @@ I like the principle of [slow science](https://en.wikipedia.org/wiki/Slow_scienc
 ---
 
 Also, currently:  
-<img src="{{site.mva_logo | relative_url}}" alt=":sdd:" height="20" width="20">Lecturer in RL at the [MVA master program](https://www.master-mva.com/),  
+<img src="{{site.mva_logo | relative_url}}" alt=":sdd:" height="20" width="20"> Lecturer in [RL](https://erachelson.github.io/RLclass_MVA) at the [MVA master program](https://www.master-mva.com/),  
 <img src="{{site.sdd_logo | relative_url}}" alt=":sdd:" height="20" width="20"> Founder and head of the [Data and Decision Sciences master program](https://SupaeroDataScience.github.io) at ISAE-SUPAERO,  
 <img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> Member of the [ML, Decision, Optimization research group](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) at ISAE-SUPAERO,  
 <img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> Elected faculty member of the board at ISAE-SUPAERO,  
-<img src="{{site.edmitt_logo | relative_url}}" alt=":isae:" height="20" width="20"> ISAE-SUPAERO representative at the Maths & CS doctoral school in Toulouse.  
+<img src="{{site.edmitt_logo | relative_url}}" alt=":isae:" height="20" width="20"> ISAE-SUPAERO representative at the [Toulouse Maths & CS doctoral school](https://adum.fr/as/ed/edmitt/page.pl?page=contact).  
 
 Formerly:  
 <img src="{{site.edf_logo | relative_url}}" alt=":edf:" height="20" width="20">
