@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td><img src="" height="100"></td>
+    <td><img src="assets/images/thermal_soaring.jpg" height="100"></td>
     <td>
 Autonomous glider control and planning<br/>
 RL<br/>
 PhD student: Erwan Lecarpentier (2020)<br/>
-<img src="isae.jpg" height="30"> <img src="onera.jpg" height="100">
+<img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="100">
 
     </td>
   </tr>
