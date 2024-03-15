@@ -52,7 +52,7 @@ Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images
 <b>Autopilot stress testing</b><br/>
 RL<br/>
 Student: Paul-Antoine Le Tolguenec (ongoing)<br/>
-Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/airbus.jpg" height="30">
+Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/airbus.png" height="30">
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images
 <b>Aircraft structural load forecasting</b><br/>
 ML<br/>
 Student: Ankit Chiplunkar (2017)<br/>
-Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/airbus.jpg" height="30">
+Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/airbus.png" height="30">
     </td>
   </tr>
   <tr>
