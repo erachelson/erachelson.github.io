@@ -1,4 +1,4 @@
-# Applications I've worked on (no particular order)
+## Applications I've worked on (no particular order)
 
 <table>
   <tr>
