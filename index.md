@@ -1,6 +1,6 @@
 <img src="{{site.isae_logo | relative_url}}" alt=":isae:" height="20" width="20"> **Professor in ML/AI at  [ISAE-SUPAERO](www.isae-supaero.fr)**,  
-<img src="{{site.sureli_logo | relative_url}}" alt=":sureli:" height="20" width="20"> **Team leader of the  [Supaero Reinforcement Learning Initiative (SuReLI)](site.sureli_url)**,  
-<img src="{{site.aniti_logo | relative_url}}" alt=":aniti:" height="20" width="20"> **[ANITI](https://aniti.univ-toulouse.fr/) chair in Reinforcement Learning**.  
+<img src="{{site.sureli_logo | relative_url}}" alt=":sureli:" height="20" width="20"> **Team leader of the  [Supaero Reinforcement Learning Initiative (SuReLI)](https://sureli.isae-supaero.fr)**,  
+<img src="{{site.aniti_logo | relative_url}}" alt=":aniti:" height="20" width="20"> **[ANITI](https://aniti.univ-toulouse.fr/) research chair in Reinforcement Learning**.  
 
 My research lies in the fields of Reinforcement Learning and Sequential Decision problems, with a broader interest for Machine Learning and Operations Research.  
 Above all, I like to deeply understand the mechanisms of learning and optimization.  
