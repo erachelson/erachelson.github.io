@@ -3,20 +3,21 @@
 <a href="#teaching">Teaching</a>  
 <a href="#respos">Responsibilities</a>  
 <a href="#research">Research</a>  
-<a href="#alumni">Almuni</a>  
+<a href="#alumni">Alumni</a>  
 <a href="#extras">Extras</a>  
 
 <a id="#bio">
 # Short bio
 
-Emmanuel Rachelson is professor of machine learning and optimization at ISAE-SUPAERO. 
-He holds the ANITI research chair in Reinforcement Learning.
+Emmanuel Rachelson is professor of machine learning and optimization at [ISAE-SUPAERO](https://www.isae-supaero.fr). 
+He holds the [ANITI](https://aniti.univ-toulouse.fr/) research chair in Reinforcement Learning.
 Prior to joining ISAE-SUPAERO (2011), he held a researcher position at EDF Research and Development (2009, 2011) and postdoctoral positions at the University of Liège (2010) and the Technical University of Crete (2009). 
 He received a PhD in artificial intelligence (2009) and the Habilitation degree (2020) from the University of Toulouse.  
 
 As a teacher, he has been involved in promoting artificial intelligence education. He has been responsible for the Intelligent Decision Systems minor track (MS, 2012-2015) and has founded  and remains in charge of the [Data and Decision Sciences](https://supaerodatascience.github.io/) major track (MS, 2015) in the ISAE-SUPAERO curriculum. He also co-founded the [Artificial Intelligence and Business Transformation executive master](https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-artificial-intelligence-business-transformation-am-aibt/) program (2021) and co-organized the international [Reinforcement Learning Virtual School](https://rl-vs.github.io/rlvs2021/index.html) (2021). Since 2023 he also teaches the [reinforcement learning class](https://erachelson.github.io/RLclass_MVA/index.html) of the [MVA master](https://www.master-mva.com/) degree. He teaches machine learning and optimization to master and PhD students, and in continuing education programs.
 
-His research is in the field of reinforcement learning and related topics. He created the [ISAE-SUPAERO Reinforcement Learning Initiative](https://sureli.isae-supaero.fr/) (SuReLI, 2016) which fosters interaction between PhD students, postdocs and permanents researchers on reinforcement learning topics and their interplay with other disciplines. He investigates the reliability of reinforcement learning methods from different points of view such as statistical generalization, robustness to uncertainty, transfer, simulation to reality, or inductive biases. He is also interested in the practical applications of reinforcement learning such as fluid flow control, parameter control in optimization problems, unmanned vehicles, air traffic management, software testing, or therapeutic planning. 
+His research is in the field of reinforcement learning and related topics. He created the [ISAE-SUPAERO Reinforcement Learning Initiative](https://sureli.isae-supaero.fr/) (SuReLI, 2016) which fosters interaction between PhD students, postdocs and permanents researchers on reinforcement learning topics and their interplay with other disciplines. He investigates the reliability of reinforcement learning methods from different points of view such as statistical generalization, robustness to uncertainty, transfer, simulation to reality, inductive biases, or frugal learning. He is also interested in the practical applications of reinforcement learning such as fluid flow control, parameter control in optimization problems, unmanned vehicles, air traffic management, software testing, or therapeutic planning. 
+He holds the [ANITI](https://aniti.univ-toulouse.fr/) research chair in Reinforcement Learning. 
 He is a member of the ACM and the AFIA, has published papers and is a reviewer in the main machine learning and artificial intelligence conferences and journals.
 
 <a id="#cv">
@@ -58,7 +59,7 @@ Paragliding instructor (and passionate pilot).
 - Continuous Optimization (ENAC and ISAE-SUPAERO undergrad, 2006-2007 and 2011-2015)
 
 I often lend a hand to colleagues, giving a few hours in Optimization and Statistics. 
-I also occasionally give **continuing education** sessions. 
+I also occasionally give continuing education sessions. 
 
 On top of the modules above, I also coordinate (but don't teach) classes on Statistics and Statistical modeling (ISAE-SUPAERO graduate), Applications of combinatorial optimization (ISAE-SUPAERO undergrad), and "in-depth" ML or data science classes (ISAE-SUPAERO graduate).
 
