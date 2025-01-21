@@ -32,4 +32,5 @@ More details [here](https://erachelson.github.io/details).
 
 :book: ORCID: [https://orcid.org/0000-0002-8559-1617](https://orcid.org/0000-0002-8559-1617)  
 :book: DBLP: [https://dblp.org/pid/52/6241](https://dblp.org/pid/52/6241)  
-:book: Google Scholar: [https://scholar.google.fr/citations?user=KtG9BSgAAAAJ](https://scholar.google.fr/citations?user=KtG9BSgAAAAJ)
+:book: Google Scholar: [https://scholar.google.fr/citations?user=KtG9BSgAAAAJ](https://scholar.google.fr/citations?user=KtG9BSgAAAAJ)  
+:book: OpenReview [https://openreview.net/profile?id=~Emmanuel_Rachelson1](https://openreview.net/profile?id=~Emmanuel_Rachelson1)

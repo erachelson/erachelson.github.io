@@ -1,4 +1,4 @@
-# PhD students I (co-)supervised
+# PhD students I (co-)supervised (and graduation year)
 Ankit Chiplunkar (2016)  
 Erwan Lecarpentier (2020)  
 Luca Mossina (2020)  
@@ -9,6 +9,13 @@ David Bertoin (2023)
 Timothée Jammot (2024)  
 Paul Templier (2024)  
 Brice Martin (2024)  
+Adil Zouitine (ongoing)
+Mehdi Zouitine (ongoing)
+Paul-Antoine Le Tolguenec (ongoing)
+Hedwin Bonnavaud (ongoing)
+Paul Strang (ongoing)
+Alexandre Bertin (ongoing)
+Thomas Delliaux (ongoing)
 
 # PhD students I collaborated with
 Kaitlin Maile   
