@@ -7,7 +7,7 @@
 <b>Autonomous glider control and planning</b><br/>
 RL<br/>
 Student: Erwan Lecarpentier (2020)<br/>
-PArtners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="30">
+Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="30">
     </td>
   </tr>
   <tr>
