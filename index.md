@@ -26,6 +26,8 @@ Researcher at [EDF R&D](https://www.edf.fr/en/the-edf-group/inventing-the-future
 
 Occasionally, consulting on ML and optimization topics.
 
+More details [here](https://erachelson.github.io/details).
+
 ---
 
 :book: ORCID: [https://orcid.org/0000-0002-8559-1617](https://orcid.org/0000-0002-8559-1617)  
