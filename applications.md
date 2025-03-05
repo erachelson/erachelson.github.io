@@ -1,4 +1,4 @@
-## Applications I've worked on (no particular order)
+## Applications I have worked on (no particular order)
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ Partners: <img src="assets/images/isae.jpg" height="30">
     <td>
 <b>Earth observation satelite scheduling</b><br/>
 OR and RL<br/>
-Students: Timothée Jammot (2021), Mehdi Zouitine (ongoing)<br/>
+Students: Timothée Jammot (2021), Mehdi Zouitine (2022-2025)<br/>
 Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/irt.png" height="30">
     </td>
   </tr>
@@ -51,7 +51,7 @@ Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images
     <td>
 <b>Autopilot stress testing</b><br/>
 RL<br/>
-Student: Paul-Antoine Le Tolguenec (ongoing)<br/>
+Student: Paul-Antoine Le Tolguenec (2023-2025)<br/>
 Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/airbus.png" height="30">
     </td>
   </tr>
@@ -78,7 +78,7 @@ Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images
     <td>
 <b>Robotic navigation</b><br/>
 RL<br/>
-Student: Hedwin Bonnavaud (ongoing)<br/>
+Student: Hedwin Bonnavaud (2022-2025)<br/>
 Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images/onera.jpg" height="30"> <img src="assets/images/aid.png" height="30">
     </td>
   </tr>
@@ -96,7 +96,7 @@ Partners: <img src="assets/images/isae.jpg" height="30"> <img src="assets/images
     <td>
 <b>Fluid flow control</b><br/>
 RL<br/>
-Students: Sandrine Berger (2023), Brice Martin (ongoing)<br/>
+Students: Sandrine Berger (2023), Brice Martin (2021-2024)<br/>
 Partners: <img src="assets/images/isae.jpg" height="30">
     </td>
   </tr>
