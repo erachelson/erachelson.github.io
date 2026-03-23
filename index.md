@@ -26,7 +26,7 @@ Researcher at [EDF R&D](https://www.edf.fr/en/the-edf-group/inventing-the-future
 
 Occasionally, consulting on ML and optimization topics.
 
-More details [here](https://erachelson.github.io/details).
+More details [here](https://erachelson.github.io/details) and a [2026 one-page CV](https://github.com/erachelson/erachelson.github.io/blob/main/EmmanuelRachelson.pdf).
 
 ---
 
