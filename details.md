@@ -1,3 +1,4 @@
+## Quick links to sections below
 <a href="#bio">Bio</a>  
 <a href="#cv">CV</a>  
 <a href="#teaching">Teaching</a>  
@@ -69,7 +70,7 @@ On top of the modules above, I also coordinate (but don't teach) classes on Stat
 Head of the ISAE-SUPAERO Reinforcement Learning Initiative (2016-)  
 General chair of the 17th European Workshop on Reinforcement Learning (2024)  
 Program chair of the 16th European Workshop on Reinforcement Learning (2023)  
-Program chair of the French Conference on Planning, Learning and Decision (2019)
+Program chair of the French Conference on Planning, Learning and Decision (2019)  
 Head of the ML, Decision, Optimization research group at ISAE-SUPAERO (2019-2020)  
 Reviewer for Machine Learning and AI conferences and journals (2009-)
 
